@@ -2,8 +2,6 @@ ScriptsOnlyBuild:
   usedScripts:
     Assembly-CSharp.dll:
     - CameraPointer
-    - CardboardStartup
-    - ObjectController
     Google.XR.Cardboard.dll:
     - Google.XR.Cardboard.XRLoader
     Unity.Rider.Editor.dll:
@@ -20,7 +18,7 @@ ScriptsOnlyBuild:
     UnityEngine.SpatialTracking.dll:
     - UnityEngine.SpatialTracking.TrackedPoseDriver
   sceneClasses:
-    Assets/Samples/Google Cardboard XR Plugin for Unity/1.13.0/Hello Cardboard/Scenes/HelloCardboard.unity:
+    Assets/Scenes/Level 1.unity:
     - Class: 1
       Script: {instanceID: 0}
     - Class: 4
@@ -41,44 +39,7 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 64
       Script: {instanceID: 0}
-    - Class: 81
-      Script: {instanceID: 0}
-    - Class: 104
-      Script: {instanceID: 0}
-    - Class: 108
-      Script: {instanceID: 0}
-    - Class: 114
-      Script: {instanceID: 12058}
-    - Class: 114
-      Script: {instanceID: 12500}
-    - Class: 114
-      Script: {instanceID: 12774}
-    - Class: 114
-      Script: {instanceID: 13844}
-    - Class: 115
-      Script: {instanceID: 0}
-    - Class: 124
-      Script: {instanceID: 0}
-    - Class: 135
-      Script: {instanceID: 0}
-    - Class: 157
-      Script: {instanceID: 0}
-    - Class: 196
-      Script: {instanceID: 0}
-    - Class: 224
-      Script: {instanceID: 0}
-    Assets/Scenes/SampleScene.unity:
-    - Class: 1
-      Script: {instanceID: 0}
-    - Class: 4
-      Script: {instanceID: 0}
-    - Class: 20
-      Script: {instanceID: 0}
-    - Class: 21
-      Script: {instanceID: 0}
-    - Class: 28
-      Script: {instanceID: 0}
-    - Class: 48
+    - Class: 65
       Script: {instanceID: 0}
     - Class: 81
       Script: {instanceID: 0}
@@ -87,6 +48,16 @@ ScriptsOnlyBuild:
     - Class: 104
       Script: {instanceID: 0}
     - Class: 108
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 12064}
+    - Class: 114
+      Script: {instanceID: 12780}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 124
+      Script: {instanceID: 0}
+    - Class: 136
       Script: {instanceID: 0}
     - Class: 157
       Script: {instanceID: 0}
@@ -593,6 +564,5 @@ ScriptsOnlyBuild:
     className: PlayableTrack
   platform: 13
   scenePathNames:
-  - Assets/Scenes/SampleScene.unity
-  - Assets/Samples/Google Cardboard XR Plugin for Unity/1.13.0/Hello Cardboard/Scenes/HelloCardboard.unity
-  playerPath: C:/Users/alexa/OneDrive/Documents/School/Unity Builds/CadiKazani.apk
+  - Assets/Scenes/Level 1.unity
+  playerPath: /Users/nisanurgenc/Documents/GitHub/CadiKazani/CadiKazani/doesitwork.apk

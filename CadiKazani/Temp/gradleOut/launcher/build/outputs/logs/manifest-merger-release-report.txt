@@ -1,0 +1,382 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/nisanurgenc/Documents/GitHub/CadiKazani/CadiKazani/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:1-6:12
+INJECTED from /Users/nisanurgenc/Documents/GitHub/CadiKazani/CadiKazani/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:1-6:12
+INJECTED from /Users/nisanurgenc/Documents/GitHub/CadiKazani/CadiKazani/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:1-6:12
+INJECTED from /Users/nisanurgenc/Documents/GitHub/CadiKazani/CadiKazani/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:1-6:12
+MERGED from [:unityLibrary] /Users/nisanurgenc/Documents/GitHub/CadiKazani/CadiKazani/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:3:1-67:12
+MERGED from [com.google.android.material:material:1.4.0] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/f83be73aaa7c5a2346026d803c89d991/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/0fd8712dd333dc0ddc0f296abfc1d41c/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.3.1] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/1aa0c3ad9b5d3c036b1fee92dbc09154/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-vision:20.1.3] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/22cbfa3abae32ac10cdb380e98b0898e/AndroidManifest.xml:2:1-9:12
+MERGED from [:sdk:] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/f5c5ab6942e50a4702e078b57c70d783/AndroidManifest.xml:2:1-49:12
+MERGED from [com.google.android.gms:play-services-vision-common:19.1.3] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/ac425416b728f4c93da06f50d2cbbbcc/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/eec3c6f1a05d2eaf470eed4a9def7e62/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-flags:17.0.0] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/932e593936b00438b0d36d9532c9127c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/9d127b0413c036e084ca6a82d267d81d/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:17.4.0] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/ba0ac4c1ce8c76609093bd5f80bcb4a4/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/bcdc29aac17c0aef4ecf4861652d5cde/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.4.0] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/3592d3e402651b3a62b97c383058ebf6/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/3b1dbceb0a097ce4454657111e037085/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/5673330bad54424b0a55379787bd911f/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/3c3bfbd628fbc315c7ebcb51a1175adf/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/f72b64de49b52a4b39a897bb4d1e7d07/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/2c7b8e3eca2686eb22cf26d1b8ad8bd9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/d3745cfefcbee74347a4204a48498d3c/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/b40f885992378a2442924b4373f2fd5f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/fd9225154f50922eff9bf4935591723b/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/24e4afb1860920ddf9897c956a82b014/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/d43d5cb15c1935b4e17eac0bbdf326ee/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/b75a2261afc08bda4756199332ee94a2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/1fae8bf8a6cb511906ccf6bd5c9bc98b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/a7d5fb308bbd2e46689bf61848f170c8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/1ef2a23332bd608b40a373b23944498f/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/7c5c1a5a4b5dd47478c2b0d59f3e9577/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.5.0] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/dfa3a142b84814b5e390e2e880ddc09b/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/1cf4267248ccc8e8a8adf77a994486ad/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/00c6fc7115fa2644ad5e409209bcf5f1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/f113ef720d229414a29b166d37a55dec/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/37f21a1c8fb0402e32dcec618c09a495/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/60383ccaf0683e6602df09d04afa7a6a/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/018f26ead94d11e6259c86d842c98176/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/eaf7bd8959c170124606181b566f9a23/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/2ce0a7e09f28d52fe9a6eb7fd2cce652/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/448d2b297f973df844249b6172e2515c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/3fb910a2f32f60a9d52c8d3c9fc1dc53/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/70deab8e252b24a4b205f011f5e2c606/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/d089834e6f38347d1524cf577b813641/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/7627b9c355eea79cb96a7193a39aef8b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/f099c0dea08bbbf32624316e830fabd1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/2351f12856ecd2be73739ca7cef8f236/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/bf6cea570802a664b6ec8f0d9081f6d5/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/nisanurgenc/Documents/GitHub/CadiKazani/CadiKazani/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:1-6:12
+INJECTED from /Users/nisanurgenc/Documents/GitHub/CadiKazani/CadiKazani/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:1-6:12
+INJECTED from /Users/nisanurgenc/Documents/GitHub/CadiKazani/CadiKazani/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:1-6:12
+	package
+		ADDED from /Users/nisanurgenc/Documents/GitHub/CadiKazani/CadiKazani/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:70-109
+		INJECTED from /Users/nisanurgenc/Documents/GitHub/CadiKazani/CadiKazani/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+		INJECTED from /Users/nisanurgenc/Documents/GitHub/CadiKazani/CadiKazani/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/nisanurgenc/Documents/GitHub/CadiKazani/CadiKazani/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+		ADDED from /Users/nisanurgenc/Documents/GitHub/CadiKazani/CadiKazani/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:1-6:12
+		INJECTED from /Users/nisanurgenc/Documents/GitHub/CadiKazani/CadiKazani/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/nisanurgenc/Documents/GitHub/CadiKazani/CadiKazani/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:110-156
+	android:versionCode
+		INJECTED from /Users/nisanurgenc/Documents/GitHub/CadiKazani/CadiKazani/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+		ADDED from /Users/nisanurgenc/Documents/GitHub/CadiKazani/CadiKazani/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:1-6:12
+		INJECTED from /Users/nisanurgenc/Documents/GitHub/CadiKazani/CadiKazani/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/nisanurgenc/Documents/GitHub/CadiKazani/CadiKazani/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:11-69
+	android:installLocation
+		ADDED from /Users/nisanurgenc/Documents/GitHub/CadiKazani/CadiKazani/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:157-197
+supports-screens
+ADDED from /Users/nisanurgenc/Documents/GitHub/CadiKazani/CadiKazani/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:4:3-163
+	android:largeScreens
+		ADDED from /Users/nisanurgenc/Documents/GitHub/CadiKazani/CadiKazani/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:4:78-105
+	android:smallScreens
+		ADDED from /Users/nisanurgenc/Documents/GitHub/CadiKazani/CadiKazani/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:4:21-48
+	android:normalScreens
+		ADDED from /Users/nisanurgenc/Documents/GitHub/CadiKazani/CadiKazani/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:4:49-77
+	android:xlargeScreens
+		ADDED from /Users/nisanurgenc/Documents/GitHub/CadiKazani/CadiKazani/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:4:106-134
+	android:anyDensity
+		ADDED from /Users/nisanurgenc/Documents/GitHub/CadiKazani/CadiKazani/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:4:135-160
+application
+ADDED from /Users/nisanurgenc/Documents/GitHub/CadiKazani/CadiKazani/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:5:3-83
+MERGED from [:unityLibrary] /Users/nisanurgenc/Documents/GitHub/CadiKazani/CadiKazani/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:27:5-65:19
+MERGED from [:unityLibrary] /Users/nisanurgenc/Documents/GitHub/CadiKazani/CadiKazani/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:27:5-65:19
+MERGED from [com.google.android.material:material:1.4.0] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/f83be73aaa7c5a2346026d803c89d991/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.4.0] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/f83be73aaa7c5a2346026d803c89d991/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/0fd8712dd333dc0ddc0f296abfc1d41c/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/0fd8712dd333dc0ddc0f296abfc1d41c/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-vision:20.1.3] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/22cbfa3abae32ac10cdb380e98b0898e/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:20.1.3] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/22cbfa3abae32ac10cdb380e98b0898e/AndroidManifest.xml:7:5-20
+MERGED from [:sdk:] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/f5c5ab6942e50a4702e078b57c70d783/AndroidManifest.xml:22:5-47:19
+MERGED from [:sdk:] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/f5c5ab6942e50a4702e078b57c70d783/AndroidManifest.xml:22:5-47:19
+MERGED from [com.google.android.gms:play-services-vision-common:19.1.3] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/ac425416b728f4c93da06f50d2cbbbcc/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:19.1.3] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/ac425416b728f4c93da06f50d2cbbbcc/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/eec3c6f1a05d2eaf470eed4a9def7e62/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/eec3c6f1a05d2eaf470eed4a9def7e62/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/9d127b0413c036e084ca6a82d267d81d/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/9d127b0413c036e084ca6a82d267d81d/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:17.4.0] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/ba0ac4c1ce8c76609093bd5f80bcb4a4/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.4.0] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/ba0ac4c1ce8c76609093bd5f80bcb4a4/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/bcdc29aac17c0aef4ecf4861652d5cde/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/bcdc29aac17c0aef4ecf4861652d5cde/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.4.0] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/3592d3e402651b3a62b97c383058ebf6/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.4.0] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/3592d3e402651b3a62b97c383058ebf6/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.5.0] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/dfa3a142b84814b5e390e2e880ddc09b/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.5.0] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/dfa3a142b84814b5e390e2e880ddc09b/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/eaf7bd8959c170124606181b566f9a23/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/eaf7bd8959c170124606181b566f9a23/AndroidManifest.xml:24:5-25:19
+	android:requestLegacyExternalStorage
+		ADDED from [:unityLibrary] /Users/nisanurgenc/Documents/GitHub/CadiKazani/CadiKazani/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:27:18-61
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.5.0] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/dfa3a142b84814b5e390e2e880ddc09b/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/nisanurgenc/Documents/GitHub/CadiKazani/CadiKazani/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:5:16-48
+	android:icon
+		ADDED from /Users/nisanurgenc/Documents/GitHub/CadiKazani/CadiKazani/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:5:49-80
+uses-sdk
+INJECTED from /Users/nisanurgenc/Documents/GitHub/CadiKazani/CadiKazani/Temp/gradleOut/launcher/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/nisanurgenc/Documents/GitHub/CadiKazani/CadiKazani/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+INJECTED from /Users/nisanurgenc/Documents/GitHub/CadiKazani/CadiKazani/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+MERGED from [:unityLibrary] /Users/nisanurgenc/Documents/GitHub/CadiKazani/CadiKazani/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:9:5-11:41
+MERGED from [:unityLibrary] /Users/nisanurgenc/Documents/GitHub/CadiKazani/CadiKazani/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:9:5-11:41
+MERGED from [com.google.android.material:material:1.4.0] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/f83be73aaa7c5a2346026d803c89d991/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/f83be73aaa7c5a2346026d803c89d991/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/0fd8712dd333dc0ddc0f296abfc1d41c/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/0fd8712dd333dc0ddc0f296abfc1d41c/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/1aa0c3ad9b5d3c036b1fee92dbc09154/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/1aa0c3ad9b5d3c036b1fee92dbc09154/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-vision:20.1.3] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/22cbfa3abae32ac10cdb380e98b0898e/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:20.1.3] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/22cbfa3abae32ac10cdb380e98b0898e/AndroidManifest.xml:5:5-44
+MERGED from [:sdk:] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/f5c5ab6942e50a4702e078b57c70d783/AndroidManifest.xml:5:5-7:41
+MERGED from [:sdk:] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/f5c5ab6942e50a4702e078b57c70d783/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-vision-common:19.1.3] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/ac425416b728f4c93da06f50d2cbbbcc/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:19.1.3] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/ac425416b728f4c93da06f50d2cbbbcc/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/eec3c6f1a05d2eaf470eed4a9def7e62/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/eec3c6f1a05d2eaf470eed4a9def7e62/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:17.0.0] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/932e593936b00438b0d36d9532c9127c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:17.0.0] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/932e593936b00438b0d36d9532c9127c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/9d127b0413c036e084ca6a82d267d81d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/9d127b0413c036e084ca6a82d267d81d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.4.0] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/ba0ac4c1ce8c76609093bd5f80bcb4a4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.4.0] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/ba0ac4c1ce8c76609093bd5f80bcb4a4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/bcdc29aac17c0aef4ecf4861652d5cde/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/bcdc29aac17c0aef4ecf4861652d5cde/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.4.0] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/3592d3e402651b3a62b97c383058ebf6/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.4.0] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/3592d3e402651b3a62b97c383058ebf6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/3b1dbceb0a097ce4454657111e037085/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/3b1dbceb0a097ce4454657111e037085/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/5673330bad54424b0a55379787bd911f/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/5673330bad54424b0a55379787bd911f/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/3c3bfbd628fbc315c7ebcb51a1175adf/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/3c3bfbd628fbc315c7ebcb51a1175adf/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/f72b64de49b52a4b39a897bb4d1e7d07/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/f72b64de49b52a4b39a897bb4d1e7d07/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/2c7b8e3eca2686eb22cf26d1b8ad8bd9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/2c7b8e3eca2686eb22cf26d1b8ad8bd9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/d3745cfefcbee74347a4204a48498d3c/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/d3745cfefcbee74347a4204a48498d3c/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/b40f885992378a2442924b4373f2fd5f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/b40f885992378a2442924b4373f2fd5f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/fd9225154f50922eff9bf4935591723b/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/fd9225154f50922eff9bf4935591723b/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/24e4afb1860920ddf9897c956a82b014/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/24e4afb1860920ddf9897c956a82b014/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/d43d5cb15c1935b4e17eac0bbdf326ee/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/d43d5cb15c1935b4e17eac0bbdf326ee/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/b75a2261afc08bda4756199332ee94a2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/b75a2261afc08bda4756199332ee94a2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/1fae8bf8a6cb511906ccf6bd5c9bc98b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/1fae8bf8a6cb511906ccf6bd5c9bc98b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/a7d5fb308bbd2e46689bf61848f170c8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/a7d5fb308bbd2e46689bf61848f170c8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/1ef2a23332bd608b40a373b23944498f/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/1ef2a23332bd608b40a373b23944498f/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/7c5c1a5a4b5dd47478c2b0d59f3e9577/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/7c5c1a5a4b5dd47478c2b0d59f3e9577/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.5.0] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/dfa3a142b84814b5e390e2e880ddc09b/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/dfa3a142b84814b5e390e2e880ddc09b/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/1cf4267248ccc8e8a8adf77a994486ad/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/1cf4267248ccc8e8a8adf77a994486ad/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/00c6fc7115fa2644ad5e409209bcf5f1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/00c6fc7115fa2644ad5e409209bcf5f1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/f113ef720d229414a29b166d37a55dec/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/f113ef720d229414a29b166d37a55dec/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/37f21a1c8fb0402e32dcec618c09a495/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/37f21a1c8fb0402e32dcec618c09a495/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/60383ccaf0683e6602df09d04afa7a6a/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/60383ccaf0683e6602df09d04afa7a6a/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/018f26ead94d11e6259c86d842c98176/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/018f26ead94d11e6259c86d842c98176/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/eaf7bd8959c170124606181b566f9a23/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/eaf7bd8959c170124606181b566f9a23/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/2ce0a7e09f28d52fe9a6eb7fd2cce652/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/2ce0a7e09f28d52fe9a6eb7fd2cce652/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/448d2b297f973df844249b6172e2515c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/448d2b297f973df844249b6172e2515c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/3fb910a2f32f60a9d52c8d3c9fc1dc53/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/3fb910a2f32f60a9d52c8d3c9fc1dc53/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/70deab8e252b24a4b205f011f5e2c606/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/70deab8e252b24a4b205f011f5e2c606/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/d089834e6f38347d1524cf577b813641/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/d089834e6f38347d1524cf577b813641/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/7627b9c355eea79cb96a7193a39aef8b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/7627b9c355eea79cb96a7193a39aef8b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/f099c0dea08bbbf32624316e830fabd1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/f099c0dea08bbbf32624316e830fabd1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/2351f12856ecd2be73739ca7cef8f236/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/2351f12856ecd2be73739ca7cef8f236/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/bf6cea570802a664b6ec8f0d9081f6d5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/bf6cea570802a664b6ec8f0d9081f6d5/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/nisanurgenc/Documents/GitHub/CadiKazani/CadiKazani/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+INJECTED from /Users/nisanurgenc/Documents/GitHub/CadiKazani/CadiKazani/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/nisanurgenc/Documents/GitHub/CadiKazani/CadiKazani/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+		ADDED from /Users/nisanurgenc/Documents/GitHub/CadiKazani/CadiKazani/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+		INJECTED from /Users/nisanurgenc/Documents/GitHub/CadiKazani/CadiKazani/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/nisanurgenc/Documents/GitHub/CadiKazani/CadiKazani/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+		ADDED from /Users/nisanurgenc/Documents/GitHub/CadiKazani/CadiKazani/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+		INJECTED from /Users/nisanurgenc/Documents/GitHub/CadiKazani/CadiKazani/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+uses-feature#0x00030000
+ADDED from [:unityLibrary] /Users/nisanurgenc/Documents/GitHub/CadiKazani/CadiKazani/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:13:5-54
+MERGED from [:sdk:] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/f5c5ab6942e50a4702e078b57c70d783/AndroidManifest.xml:13:5-15:35
+MERGED from [:sdk:] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/f5c5ab6942e50a4702e078b57c70d783/AndroidManifest.xml:13:5-15:35
+	android:glEsVersion
+		ADDED from [:unityLibrary] /Users/nisanurgenc/Documents/GitHub/CadiKazani/CadiKazani/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:13:19-51
+	android:required
+		ADDED from [:sdk:] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/f5c5ab6942e50a4702e078b57c70d783/AndroidManifest.xml:15:9-32
+uses-permission#android.permission.INTERNET
+ADDED from [:unityLibrary] /Users/nisanurgenc/Documents/GitHub/CadiKazani/CadiKazani/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:15:5-67
+MERGED from [:sdk:] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/f5c5ab6942e50a4702e078b57c70d783/AndroidManifest.xml:19:5-67
+MERGED from [:sdk:] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/f5c5ab6942e50a4702e078b57c70d783/AndroidManifest.xml:19:5-67
+	android:name
+		ADDED from [:unityLibrary] /Users/nisanurgenc/Documents/GitHub/CadiKazani/CadiKazani/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:15:22-64
+uses-feature#android.hardware.touchscreen
+ADDED from [:unityLibrary] /Users/nisanurgenc/Documents/GitHub/CadiKazani/CadiKazani/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:17:5-19:36
+	android:required
+		ADDED from [:unityLibrary] /Users/nisanurgenc/Documents/GitHub/CadiKazani/CadiKazani/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:19:9-33
+	android:name
+		ADDED from [:unityLibrary] /Users/nisanurgenc/Documents/GitHub/CadiKazani/CadiKazani/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:18:9-52
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from [:unityLibrary] /Users/nisanurgenc/Documents/GitHub/CadiKazani/CadiKazani/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:20:5-22:36
+	android:required
+		ADDED from [:unityLibrary] /Users/nisanurgenc/Documents/GitHub/CadiKazani/CadiKazani/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:22:9-33
+	android:name
+		ADDED from [:unityLibrary] /Users/nisanurgenc/Documents/GitHub/CadiKazani/CadiKazani/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:21:9-63
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from [:unityLibrary] /Users/nisanurgenc/Documents/GitHub/CadiKazani/CadiKazani/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:23:5-25:36
+	android:required
+		ADDED from [:unityLibrary] /Users/nisanurgenc/Documents/GitHub/CadiKazani/CadiKazani/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:25:9-33
+	android:name
+		ADDED from [:unityLibrary] /Users/nisanurgenc/Documents/GitHub/CadiKazani/CadiKazani/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:24:9-72
+activity#com.unity3d.player.UnityPlayerActivity
+ADDED from [:unityLibrary] /Users/nisanurgenc/Documents/GitHub/CadiKazani/CadiKazani/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:28:9-48:20
+	android:screenOrientation
+		ADDED from [:unityLibrary] /Users/nisanurgenc/Documents/GitHub/CadiKazani/CadiKazani/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:34:13-51
+	android:launchMode
+		ADDED from [:unityLibrary] /Users/nisanurgenc/Documents/GitHub/CadiKazani/CadiKazani/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:32:13-44
+	android:hardwareAccelerated
+		ADDED from [:unityLibrary] /Users/nisanurgenc/Documents/GitHub/CadiKazani/CadiKazani/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:31:13-48
+	android:resizeableActivity
+		ADDED from [:unityLibrary] /Users/nisanurgenc/Documents/GitHub/CadiKazani/CadiKazani/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:33:13-47
+	android:configChanges
+		ADDED from [:unityLibrary] /Users/nisanurgenc/Documents/GitHub/CadiKazani/CadiKazani/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:30:13-194
+	android:theme
+		ADDED from [:unityLibrary] /Users/nisanurgenc/Documents/GitHub/CadiKazani/CadiKazani/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:35:13-54
+	android:name
+		ADDED from [:unityLibrary] /Users/nisanurgenc/Documents/GitHub/CadiKazani/CadiKazani/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:29:13-66
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from [:unityLibrary] /Users/nisanurgenc/Documents/GitHub/CadiKazani/CadiKazani/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:36:13-40:29
+action#android.intent.action.MAIN
+ADDED from [:unityLibrary] /Users/nisanurgenc/Documents/GitHub/CadiKazani/CadiKazani/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:37:17-69
+	android:name
+		ADDED from [:unityLibrary] /Users/nisanurgenc/Documents/GitHub/CadiKazani/CadiKazani/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:37:25-66
+category#android.intent.category.LAUNCHER
+ADDED from [:unityLibrary] /Users/nisanurgenc/Documents/GitHub/CadiKazani/CadiKazani/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:39:17-77
+	android:name
+		ADDED from [:unityLibrary] /Users/nisanurgenc/Documents/GitHub/CadiKazani/CadiKazani/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:39:27-74
+meta-data#unityplayer.UnityActivity
+ADDED from [:unityLibrary] /Users/nisanurgenc/Documents/GitHub/CadiKazani/CadiKazani/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:42:13-44:40
+	android:value
+		ADDED from [:unityLibrary] /Users/nisanurgenc/Documents/GitHub/CadiKazani/CadiKazani/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:44:17-37
+	android:name
+		ADDED from [:unityLibrary] /Users/nisanurgenc/Documents/GitHub/CadiKazani/CadiKazani/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:43:17-57
+meta-data#android.notch_support
+ADDED from [:unityLibrary] /Users/nisanurgenc/Documents/GitHub/CadiKazani/CadiKazani/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:45:13-47:40
+	android:value
+		ADDED from [:unityLibrary] /Users/nisanurgenc/Documents/GitHub/CadiKazani/CadiKazani/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:47:17-37
+	android:name
+		ADDED from [:unityLibrary] /Users/nisanurgenc/Documents/GitHub/CadiKazani/CadiKazani/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:46:17-53
+meta-data#unity.splash-mode
+ADDED from [:unityLibrary] /Users/nisanurgenc/Documents/GitHub/CadiKazani/CadiKazani/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:50:9-52:33
+	android:value
+		ADDED from [:unityLibrary] /Users/nisanurgenc/Documents/GitHub/CadiKazani/CadiKazani/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:52:13-30
+	android:name
+		ADDED from [:unityLibrary] /Users/nisanurgenc/Documents/GitHub/CadiKazani/CadiKazani/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:51:13-45
+meta-data#unity.splash-enable
+ADDED from [:unityLibrary] /Users/nisanurgenc/Documents/GitHub/CadiKazani/CadiKazani/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:53:9-55:36
+	android:value
+		ADDED from [:unityLibrary] /Users/nisanurgenc/Documents/GitHub/CadiKazani/CadiKazani/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:55:13-33
+	android:name
+		ADDED from [:unityLibrary] /Users/nisanurgenc/Documents/GitHub/CadiKazani/CadiKazani/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:54:13-47
+meta-data#unity.allow-resizable-window
+ADDED from [:unityLibrary] /Users/nisanurgenc/Documents/GitHub/CadiKazani/CadiKazani/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:56:9-58:37
+	android:value
+		ADDED from [:unityLibrary] /Users/nisanurgenc/Documents/GitHub/CadiKazani/CadiKazani/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:58:13-34
+	android:name
+		ADDED from [:unityLibrary] /Users/nisanurgenc/Documents/GitHub/CadiKazani/CadiKazani/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:57:13-56
+meta-data#notch.config
+ADDED from [:unityLibrary] /Users/nisanurgenc/Documents/GitHub/CadiKazani/CadiKazani/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:59:9-61:50
+	android:value
+		ADDED from [:unityLibrary] /Users/nisanurgenc/Documents/GitHub/CadiKazani/CadiKazani/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:61:13-47
+	android:name
+		ADDED from [:unityLibrary] /Users/nisanurgenc/Documents/GitHub/CadiKazani/CadiKazani/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:60:13-40
+meta-data#unity.build-id
+ADDED from [:unityLibrary] /Users/nisanurgenc/Documents/GitHub/CadiKazani/CadiKazani/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:62:9-64:68
+	android:value
+		ADDED from [:unityLibrary] /Users/nisanurgenc/Documents/GitHub/CadiKazani/CadiKazani/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:64:13-65
+	android:name
+		ADDED from [:unityLibrary] /Users/nisanurgenc/Documents/GitHub/CadiKazani/CadiKazani/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:63:13-42
+uses-permission#android.permission.CAMERA
+ADDED from [:sdk:] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/f5c5ab6942e50a4702e078b57c70d783/AndroidManifest.xml:17:5-65
+	android:name
+		ADDED from [:sdk:] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/f5c5ab6942e50a4702e078b57c70d783/AndroidManifest.xml:17:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [:sdk:] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/f5c5ab6942e50a4702e078b57c70d783/AndroidManifest.xml:18:5-81
+	android:name
+		ADDED from [:sdk:] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/f5c5ab6942e50a4702e078b57c70d783/AndroidManifest.xml:18:22-78
+uses-permission#android.permission.NFC
+ADDED from [:sdk:] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/f5c5ab6942e50a4702e078b57c70d783/AndroidManifest.xml:20:5-62
+	android:name
+		ADDED from [:sdk:] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/f5c5ab6942e50a4702e078b57c70d783/AndroidManifest.xml:20:22-59
+activity#com.google.cardboard.sdk.QrCodeCaptureActivity
+ADDED from [:sdk:] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/f5c5ab6942e50a4702e078b57c70d783/AndroidManifest.xml:23:9-27:66
+	android:label
+		ADDED from [:sdk:] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/f5c5ab6942e50a4702e078b57c70d783/AndroidManifest.xml:26:13-67
+	android:exported
+		ADDED from [:sdk:] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/f5c5ab6942e50a4702e078b57c70d783/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [:sdk:] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/f5c5ab6942e50a4702e078b57c70d783/AndroidManifest.xml:27:13-63
+	android:name
+		ADDED from [:sdk:] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/f5c5ab6942e50a4702e078b57c70d783/AndroidManifest.xml:24:13-74
+activity#com.google.cardboard.sdk.HeadsetDetectionActivity
+ADDED from [:sdk:] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/f5c5ab6942e50a4702e078b57c70d783/AndroidManifest.xml:33:9-46:20
+	android:label
+		ADDED from [:sdk:] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/f5c5ab6942e50a4702e078b57c70d783/AndroidManifest.xml:36:13-69
+	android:exported
+		ADDED from [:sdk:] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/f5c5ab6942e50a4702e078b57c70d783/AndroidManifest.xml:35:13-36
+	android:name
+		ADDED from [:sdk:] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/f5c5ab6942e50a4702e078b57c70d783/AndroidManifest.xml:34:13-77
+intent-filter#action:name:android.nfc.action.NDEF_DISCOVERED+category:name:android.intent.category.DEFAULT+data:scheme:cardboard
+ADDED from [:sdk:] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/f5c5ab6942e50a4702e078b57c70d783/AndroidManifest.xml:39:13-45:29
+action#android.nfc.action.NDEF_DISCOVERED
+ADDED from [:sdk:] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/f5c5ab6942e50a4702e078b57c70d783/AndroidManifest.xml:40:17-77
+	android:name
+		ADDED from [:sdk:] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/f5c5ab6942e50a4702e078b57c70d783/AndroidManifest.xml:40:25-74
+category#android.intent.category.DEFAULT
+ADDED from [:sdk:] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/f5c5ab6942e50a4702e078b57c70d783/AndroidManifest.xml:42:17-76
+	android:name
+		ADDED from [:sdk:] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/f5c5ab6942e50a4702e078b57c70d783/AndroidManifest.xml:42:27-73
+data
+ADDED from [:sdk:] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/f5c5ab6942e50a4702e078b57c70d783/AndroidManifest.xml:44:17-52
+	android:scheme
+		ADDED from [:sdk:] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/f5c5ab6942e50a4702e078b57c70d783/AndroidManifest.xml:44:23-49
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.4.0] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/ba0ac4c1ce8c76609093bd5f80bcb4a4/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.4.0] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/ba0ac4c1ce8c76609093bd5f80bcb4a4/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.4.0] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/ba0ac4c1ce8c76609093bd5f80bcb4a4/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.4.0] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/ba0ac4c1ce8c76609093bd5f80bcb4a4/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.4.0] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/3592d3e402651b3a62b97c383058ebf6/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.4.0] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/3592d3e402651b3a62b97c383058ebf6/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.4.0] /Users/nisanurgenc/.gradle/caches/transforms-2/files-2.1/3592d3e402651b3a62b97c383058ebf6/AndroidManifest.xml:24:13-58
