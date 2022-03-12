@@ -1,4 +1,0 @@
-#Fri Mar 11 17:40:35 EST 2022
-base.0=/Users/nisanurgenc/Documents/GitHub/CadiKazani/CadiKazani/Temp/gradleOut/launcher/build/intermediates/transforms/dexMerger/release/0
-path.0=classes.dex
-renamed.0=classes.dex
