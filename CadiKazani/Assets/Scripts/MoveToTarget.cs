@@ -83,9 +83,12 @@ public class MoveToTarget : MonoBehaviour
     /// </summary>
     public void StartMovingToTarget()
     {
-        pathToTravel = targetTransform.position - this.transform.position;
-        moving = true;
-        toTarget = true;
+        if (!moving)
+        {
+            pathToTravel = targetTransform.position - this.transform.position;
+            moving = true;
+            toTarget = true;
+        }
     }
 
     /// <summary>
@@ -93,8 +96,11 @@ public class MoveToTarget : MonoBehaviour
     /// </summary>
     public void StartMovingBackToStart()
     {
-        pathToTravel = startPoint - this.transform.position;
-        moving = true;
-        toTarget = false;
+        if (!moving)
+        {
+            pathToTravel = startPoint - this.transform.position;
+            moving = true;
+            toTarget = false;
+        }
     }
 }

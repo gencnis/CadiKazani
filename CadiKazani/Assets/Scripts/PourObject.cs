@@ -87,8 +87,11 @@ public class PourObject : MonoBehaviour
         }
     }
 
-    public void startRotating()
+    public void StartRotating()
     {
-        rotating = true;
+        if(!rotating && !waiting && !rotatingBack)
+        {
+            rotating = true;
+        }
     }
 }
