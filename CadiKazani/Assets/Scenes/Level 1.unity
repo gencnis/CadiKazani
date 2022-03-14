@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 705507994}
-  m_IndirectSpecularColor: {r: 0.44657898, g: 0.4964133, b: 0.5748178, a: 1}
+  m_IndirectSpecularColor: {r: 0.44657826, g: 0.49641263, b: 0.57481676, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -1194,7 +1194,7 @@ GameObject:
   - component: {fileID: 523578677}
   - component: {fileID: 523578676}
   m_Layer: 0
-  m_Name: PinkParent
+  m_Name: Pink Potion
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1227,7 +1227,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7a89c917c9d7569419bb712dc2c8adb8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  maximumAngleForEvent: 10
+  maximumAngleForEvent: 9
   OnHoverBegin:
     m_PersistentCalls:
       m_Calls:
@@ -1367,7 +1367,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 145f294457d01f14caaf7d00527d702c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  points: 000000000000000000000000
+  points: 030000000000000000000000
 --- !u!1 &538960796
 GameObject:
   m_ObjectHideFlags: 0
@@ -2227,7 +2227,7 @@ GameObject:
   - component: {fileID: 876686127}
   - component: {fileID: 876686126}
   m_Layer: 0
-  m_Name: BlackPotionParent
+  m_Name: Black Potion
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2240,7 +2240,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 876686124}
-  m_LocalRotation: {x: -0, y: 0.70710677, z: -0, w: 0.7071068}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 36.82, y: 5.62, z: 5.8600006}
   m_LocalScale: {x: 2.4641, y: 2.4641, z: 2.4641}
   m_Children:
@@ -2260,7 +2260,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7a89c917c9d7569419bb712dc2c8adb8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  maximumAngleForEvent: 10
+  maximumAngleForEvent: 9
   OnHoverBegin:
     m_PersistentCalls:
       m_Calls:
@@ -2400,7 +2400,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 145f294457d01f14caaf7d00527d702c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  points: 000000000000000000000000
+  points: 000000000100000001000000
 --- !u!1001 &1006449157
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2773,7 +2773,7 @@ GameObject:
   - component: {fileID: 1064404940}
   - component: {fileID: 1064404939}
   m_Layer: 0
-  m_Name: BlueParent
+  m_Name: Blue Potion
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2806,7 +2806,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7a89c917c9d7569419bb712dc2c8adb8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  maximumAngleForEvent: 10
+  maximumAngleForEvent: 9
   OnHoverBegin:
     m_PersistentCalls:
       m_Calls:
@@ -2946,7 +2946,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 145f294457d01f14caaf7d00527d702c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  points: 000000000000000000000000
+  points: 000000000100000001000000
 --- !u!1001 &1112836381
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5129,7 +5129,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7a89c917c9d7569419bb712dc2c8adb8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  maximumAngleForEvent: 10
+  maximumAngleForEvent: 9
   OnHoverBegin:
     m_PersistentCalls:
       m_Calls:
@@ -5269,7 +5269,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 145f294457d01f14caaf7d00527d702c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  points: 000000000000000000000000
+  points: 010000000200000003000000
 --- !u!1 &1812073364
 GameObject:
   m_ObjectHideFlags: 0
@@ -6597,7 +6597,7 @@ GameObject:
   - component: {fileID: 2076009752}
   - component: {fileID: 2076009751}
   m_Layer: 0
-  m_Name: YellowParent
+  m_Name: Yellow Potion
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6630,7 +6630,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7a89c917c9d7569419bb712dc2c8adb8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  maximumAngleForEvent: 10
+  maximumAngleForEvent: 9
   OnHoverBegin:
     m_PersistentCalls:
       m_Calls:
@@ -6770,7 +6770,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 145f294457d01f14caaf7d00527d702c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  points: 000000000200000000000000
+  points: 010000000200000000000000
 --- !u!1 &2140051497
 GameObject:
   m_ObjectHideFlags: 0
@@ -7235,6 +7235,11 @@ PrefabInstance:
       propertyPath: m_LocalPosition.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 893860780298016418, guid: 1ef21eb3ea5bebf4a96d1b262e42181e,
+        type: 3}
+      propertyPath: points.Array.data[0]
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 893860780298016420, guid: 1ef21eb3ea5bebf4a96d1b262e42181e,
         type: 3}
       propertyPath: target
@@ -7253,12 +7258,12 @@ PrefabInstance:
     - target: {fileID: 893860780298016422, guid: 1ef21eb3ea5bebf4a96d1b262e42181e,
         type: 3}
       propertyPath: m_Name
-      value: RedParent
+      value: Red Potion
       objectReference: {fileID: 0}
     - target: {fileID: 893860780298016423, guid: 1ef21eb3ea5bebf4a96d1b262e42181e,
         type: 3}
       propertyPath: maximumAngleForEvent
-      value: 10
+      value: 9
       objectReference: {fileID: 0}
     - target: {fileID: 893860780298016423, guid: 1ef21eb3ea5bebf4a96d1b262e42181e,
         type: 3}

@@ -30,6 +30,28 @@ public class CauldronCalculator : MonoBehaviour
         {
             cauldronPoints[i] += potionArray[i];
         }
+
+
+        if(numPotions >= 3)
+        {
+            ChooseOutcome();
+        }
+    }
+
+
+    private void CreateShrek()
+    {
+
+    }
+
+    private void CreateDuck()
+    {
+
+    }
+
+    private void CreateCat()
+    {
+
     }
 
     /// <summary>
@@ -50,18 +72,24 @@ public class CauldronCalculator : MonoBehaviour
             }
         }
 
+        Debug.Log("CAT: " + cauldronPoints[0] + ", DUCK: " + cauldronPoints[1] + ", SHREK: " + cauldronPoints[2]);
+
         // Determine which outcome to choose
         if(highestIndex == 0)
         {
             // Cat
+            CreateCat();
+            
 
         } else if (highestIndex == 1)
         {
             // Duck
+            CreateDuck();
 
         } else if (highestIndex == 2)
         {
             // Shrek
+            CreateShrek();
 
         }
     }

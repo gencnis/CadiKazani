@@ -1,0 +1,12 @@
+Nisa:
+- Made the beautiful room
+- Wrote instructions
+- Camera script
+- Found assets
+
+Alex:
+- Potion select script
+- Potion point system
+- Potion animations
+
+Both:
