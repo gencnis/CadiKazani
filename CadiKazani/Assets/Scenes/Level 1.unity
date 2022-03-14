@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 705507994}
-  m_IndirectSpecularColor: {r: 0.44657826, g: 0.49641263, b: 0.57481676, a: 1}
+  m_IndirectSpecularColor: {r: 0.44657838, g: 0.49641234, b: 0.57481676, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -428,7 +428,7 @@ Transform:
   - {fileID: 384897419}
   - {fileID: 2027637900}
   m_Father: {fileID: 0}
-  m_RootOrder: 2
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &119838760
 PrefabInstance:
@@ -629,7 +629,7 @@ Transform:
   - {fileID: 2009058803}
   - {fileID: 187238238}
   m_Father: {fileID: 0}
-  m_RootOrder: 4
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &261139313
 GameObject:
@@ -711,6 +711,75 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 261139313}
   m_Mesh: {fileID: 4300008, guid: 959563bf3774748988e4ebf13d07d411, type: 3}
+--- !u!1001 &261449818
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 100016, guid: 64c5a08df35610b4da754618d2412324, type: 3}
+      propertyPath: m_Name
+      value: Stone_Frog_Green
+      objectReference: {fileID: 0}
+    - target: {fileID: 400016, guid: 64c5a08df35610b4da754618d2412324, type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400016, guid: 64c5a08df35610b4da754618d2412324, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 10.498004
+      objectReference: {fileID: 0}
+    - target: {fileID: 400016, guid: 64c5a08df35610b4da754618d2412324, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 10.498004
+      objectReference: {fileID: 0}
+    - target: {fileID: 400016, guid: 64c5a08df35610b4da754618d2412324, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 10.498004
+      objectReference: {fileID: 0}
+    - target: {fileID: 400016, guid: 64c5a08df35610b4da754618d2412324, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 62.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 400016, guid: 64c5a08df35610b4da754618d2412324, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -11.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 400016, guid: 64c5a08df35610b4da754618d2412324, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -10.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 400016, guid: 64c5a08df35610b4da754618d2412324, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.8314228
+      objectReference: {fileID: 0}
+    - target: {fileID: 400016, guid: 64c5a08df35610b4da754618d2412324, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400016, guid: 64c5a08df35610b4da754618d2412324, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.55564034
+      objectReference: {fileID: 0}
+    - target: {fileID: 400016, guid: 64c5a08df35610b4da754618d2412324, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400016, guid: 64c5a08df35610b4da754618d2412324, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400016, guid: 64c5a08df35610b4da754618d2412324, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -67.51
+      objectReference: {fileID: 0}
+    - target: {fileID: 400016, guid: 64c5a08df35610b4da754618d2412324, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 64c5a08df35610b4da754618d2412324, type: 3}
 --- !u!1 &312411540
 GameObject:
   m_ObjectHideFlags: 0
@@ -768,9 +837,9 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_text: "Welcome to Cad\u0131 Kazan\u0131 aka Witch Cauldron!\n\n1. You should
-    look at the potions in your left.\n2. Click on the button once you look at the
+    look at the potions in behind you.\n2. Click on the button once you look at the
     one you choose.\n3. You can add 3 potions to the cauldron.\n4. Once you add all
-    the potions, look at the frog in your right.\n5. Then enjoy what you created.\n\nHave
+    the potions, look at the frog here.\n5. Then enjoy what you created.\n\nHave
     fun!"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 125cb55b44b24c4393181402bc6200e6, type: 2}
@@ -1178,7 +1247,7 @@ Transform:
   m_Children:
   - {fileID: 2140051498}
   m_Father: {fileID: 0}
-  m_RootOrder: 3
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &523578674
 GameObject:
@@ -1666,7 +1735,7 @@ Transform:
   m_LocalScale: {x: 11.605241, y: 11.60524, z: 11.60524}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 8
+  m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &602720495
 GameObject:
@@ -3056,7 +3125,7 @@ Transform:
   - {fileID: 1780275384}
   - {fileID: 1601837365}
   m_Father: {fileID: 0}
-  m_RootOrder: 5
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1150327813
 GameObject:
@@ -3713,7 +3782,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 7
+  m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1327382581
 PrefabInstance:
@@ -5960,7 +6029,7 @@ Transform:
   - {fileID: 2076009750}
   - {fileID: 1968710840}
   m_Father: {fileID: 0}
-  m_RootOrder: 1
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &1968710840 stripped
 Transform:
@@ -6161,17 +6230,17 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2009505540}
-  m_LocalRotation: {x: -0, y: -0.016944075, z: -0, w: 0.9998565}
-  m_LocalPosition: {x: 0, y: 0, z: 40.4}
+  m_LocalRotation: {x: 0, y: 0.7071068, z: 0, w: 0.7071068}
+  m_LocalPosition: {x: 0, y: 0, z: 12.2}
   m_LocalScale: {x: 0.037072986, y: 0.055213254, z: 1}
   m_Children:
   - {fileID: 312411541}
   m_Father: {fileID: 0}
-  m_RootOrder: 6
-  m_LocalEulerAnglesHint: {x: 0, y: -1.9420002, z: 0}
+  m_RootOrder: 7
+  m_LocalEulerAnglesHint: {x: 0, y: 90, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 5.5, y: 12.2}
+  m_AnchoredPosition: {x: 66.9, y: 18.8}
   m_SizeDelta: {x: 1750, y: 908}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &2013889600
