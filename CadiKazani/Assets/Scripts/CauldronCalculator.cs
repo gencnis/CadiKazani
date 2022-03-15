@@ -7,12 +7,20 @@ using UnityEngine;
 /// </summary>
 public class CauldronCalculator : MonoBehaviour
 {
-
+    private GameObject frog;
+    private FrogTransfiguration frogScript;
     private int numPotions = 0;
+
 
     // Keep consistent with PotionPoints.cs. [0] - cat, [1] - duck, [2] - shrek
     private int[] cauldronPoints = new int[3];
 
+    private void Start()
+    {
+        frog = GameObject.Find("Stone_Frog_Green");
+        frogScript = frog.GetComponent<FrogTransfiguration>();
+
+    }
 
     /// <summary>
     /// Adds a potion to this cauldron!
@@ -20,6 +28,7 @@ public class CauldronCalculator : MonoBehaviour
     /// <param name="potion"> The potion object to add to the cauldron </param>
     public void AddPotion(GameObject potion)
     {
+
         // Keep track of how many potions you have added
         numPotions++;
         PotionPoints potionScript = potion.GetComponent<PotionPoints>();
@@ -41,17 +50,17 @@ public class CauldronCalculator : MonoBehaviour
 
     private void CreateShrek()
     {
-
+        frogScript.transfigureShrek();
     }
 
     private void CreateDuck()
     {
-
+        frogScript.transfigureDuck();
     }
 
     private void CreateCat()
     {
-
+        frogScript.transfigureCat();
     }
 
     /// <summary>

@@ -483,7 +483,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8090787370389428070}
   - component: {fileID: 1711011407710574561}
-  - component: {fileID: 8090787370389428069}
+  - component: {fileID: 7149467413344269426}
   m_Layer: 0
   m_Name: LevelChanger
   m_TagString: Untagged
@@ -530,7 +530,7 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
---- !u!114 &8090787370389428069
+--- !u!114 &7149467413344269426
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -539,10 +539,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 8090787370389428071}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 55712199390f03048adbd4cfae719cf5, type: 3}
+  m_Script: {fileID: 11500000, guid: 5ee50ad56de5d48e19dbc1092f3910d9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  animator: {fileID: 1711011407710574561}
-  startingTime: 75
+  animator: {fileID: 0}
+  startingTime: 15
   currentTime: 0
-  countdownText: {fileID: 2889259569808720428}
+  countdownText: {fileID: 0}

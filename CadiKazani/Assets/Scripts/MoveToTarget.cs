@@ -14,6 +14,11 @@ public class MoveToTarget : MonoBehaviour
     public UnityEvent OnHomeArrival;
 
     /// <summary>
+    /// This variable can be used so that only one object can move at a time
+    /// </summary>
+    private static bool allowedToMove = true;
+
+    /// <summary>
     /// The object to gradually move towards
     /// </summary>
     public GameObject target;
@@ -61,7 +66,7 @@ public class MoveToTarget : MonoBehaviour
 
             // Stop moving if enough time has passed
             timeElapsed += Time.deltaTime;
-            if(timeElapsed >= moveTime)
+            if (timeElapsed >= moveTime)
             {
                 moving = false;
                 timeElapsed = 0;
@@ -70,9 +75,11 @@ public class MoveToTarget : MonoBehaviour
                 if (toTarget)
                 {
                     OnTargetArrival.Invoke();
-                } else
+                }
+                else
                 {
                     OnHomeArrival.Invoke();
+                    
                 }
             }
         }
@@ -83,11 +90,15 @@ public class MoveToTarget : MonoBehaviour
     /// </summary>
     public void StartMovingToTarget()
     {
-        if (!moving)
+        // Only start moving if it is allowed to, and it is not already moving
+        if (!moving && allowedToMove)
         {
             pathToTravel = targetTransform.position - this.transform.position;
             moving = true;
             toTarget = true;
+
+            // Only let one object move at a time
+            allowedToMove = false;
         }
     }
 
@@ -98,9 +109,11 @@ public class MoveToTarget : MonoBehaviour
     {
         if (!moving)
         {
+            allowedToMove = true;
             pathToTravel = startPoint - this.transform.position;
             moving = true;
             toTarget = false;
         }
     }
+
 }
