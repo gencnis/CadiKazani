@@ -8,5 +8,4 @@ Alex:
 - Potion select script
 - Potion point system
 - Potion animations
-
-Both:
+- Frog transformation
